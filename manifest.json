@@ -8,14 +8,14 @@
     "homepage_url": "https://github.com/veyselusta/wind",
   
     "icons": {
-      "128": "",
-      "48": ""
+      "128": "images/icon128px.png",
+      "48": "images/icon48px.png"
     },
   
     "browser_action": {
       "default_icon": {
-        "19": "",
-        "38": ""
+        "19": "images/none19px.png",
+        "38": "images/none38px.png"
       }
     },
     "background": {
