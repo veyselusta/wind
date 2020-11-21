@@ -1,4 +1,4 @@
-const soundControl = ('./soundControl.js')
+const soundControl = require('./soundControl.js')
 let status = 'none'
 const audio = document.createElement('audio')
 
