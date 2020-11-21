@@ -25,8 +25,8 @@ function soundControl() {
 
     chrome.browserAction.setIcon({
         path: {
-          "19": "images/" + status + "",
-          "38": "images/" + status + ""
+          "19": "images/" + status + "19px.png",
+          "38": "images/" + status + "38px.png"
         }
       })
 
