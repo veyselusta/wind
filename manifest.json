@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Wind Sound",
+    "description": "Background sound to relaxing",
+    "version": "1.0",
+    "author": "Veysel Usta",
+    "homepage_url": "https://github.com/veyselusta/wind",
+  
+    "icons": {
+      "128": "",
+      "48": ""
+    },
+  
+    "browser_action": {
+      "default_icon": {
+        "19": "",
+        "38": ""
+      }
+    },
+    "background": {
+      "scripts": ["wind.js"]
+    },
+    "offline_enabled": true
+  }
